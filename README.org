@@ -1,1 +1,9 @@
 * GrubDash-Backend-Project
+
+* This project test my ability to build backend apis:
++ Running tests from the command line
++ Using common middleware packages
++ Receiving requests through routes
++ Accessing relevant information through route parameters
++ Building an api following restful design principles
++ Writing custom middleware functions
